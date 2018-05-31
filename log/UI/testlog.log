@@ -1,0 +1,392 @@
+2018-05-30 12:23:02,848 - Pre-Condition -INFO - Open the Browser
+2018-05-30 12:23:11,210 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 12:23:16,631 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 12:23:16,633 - GmailPage -INFO - Click on sign in button
+2018-05-30 12:23:18,698 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 12:23:18,699 - Login Page -INFO - Entering the user's email ID
+2018-05-30 12:23:19,078 - Login Page -INFO - Clicking on enter
+2018-05-30 12:23:21,301 - Login -INFO - Enter user password
+2018-05-30 12:23:30,659 - check_mail_service -INFO - Click on compose button
+2018-05-30 12:23:30,666 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 12:23:30,955 - Home Page -INFO - Click on compose button.
+2018-05-30 12:23:33,569 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 12:23:33,570 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 12:23:44,328 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 12:23:44,373 - Home Page -INFO - Getting the attribute value.
+2018-05-30 12:23:44,451 - Home Page -INFO - Retrieving the count
+2018-05-30 12:23:54,116 - Home Page -INFO - Click on inbox filter option
+2018-05-30 12:23:58,177 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 12:23:58,607 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 12:23:58,698 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 12:23:58,699 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 12:23:58,754 - Post-Condition -INFO - Close the browser
+2018-05-30 13:29:54,279 - Pre-Condition -INFO - Open the Browser
+2018-05-30 13:30:03,686 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 13:30:09,114 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 13:30:09,115 - GmailPage -INFO - Click on sign in button
+2018-05-30 13:30:10,589 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 13:30:10,595 - Login Page -INFO - Entering the user's email ID
+2018-05-30 13:30:11,261 - Login Page -INFO - Clicking on enter
+2018-05-30 13:30:13,464 - Login -INFO - Enter user password
+2018-05-30 13:30:22,795 - check_mail_service -INFO - Click on compose button
+2018-05-30 13:30:22,796 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 13:30:24,343 - Home Page -INFO - Click on compose button.
+2018-05-30 13:30:27,202 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 13:30:27,203 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 13:30:37,946 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 13:30:48,125 - Home Page -INFO - Click on inbox filter option
+2018-05-30 13:30:52,845 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 13:30:53,258 - Home Page -INFO - Getting the attribute value.
+2018-05-30 13:30:53,435 - Home Page -INFO - Retrieving the count
+2018-05-30 13:31:03,089 - Home Page -INFO - Click on inbox filter option
+2018-05-30 13:31:07,141 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 13:31:07,554 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 13:31:07,646 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 13:31:07,647 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 13:31:07,703 - Post-Condition -INFO - Close the browser
+2018-05-30 15:39:21,861 - Pre-Condition -INFO - Open the Browser
+2018-05-30 15:39:32,841 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 15:39:38,827 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 15:39:38,828 - GmailPage -INFO - Click on sign in button
+2018-05-30 15:39:40,717 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 15:39:40,724 - Login Page -INFO - Entering the user's email ID
+2018-05-30 15:39:41,173 - Login Page -INFO - Clicking on enter
+2018-05-30 15:39:43,389 - Login -INFO - Enter user password
+2018-05-30 15:39:52,762 - check_mail_service -INFO - Click on compose button
+2018-05-30 15:39:52,796 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 15:39:53,008 - Home Page -INFO - Click on compose button.
+2018-05-30 15:39:55,603 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 15:39:55,608 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 15:40:06,606 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 15:40:16,171 - Home Page -INFO - Click on inbox filter option
+2018-05-30 15:40:20,173 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 15:40:20,590 - Home Page -INFO - Getting the attribute value.
+2018-05-30 15:40:20,653 - Home Page -INFO - Retrieving the count
+2018-05-30 15:40:30,162 - Home Page -INFO - Click on inbox filter option
+2018-05-30 15:40:34,258 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 15:40:34,684 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 15:40:34,775 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 15:40:34,777 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 15:40:34,830 - Post-Condition -INFO - Close the browser
+2018-05-30 15:42:44,729 - Pre-Condition -INFO - Open the Browser
+2018-05-30 15:42:54,520 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 15:43:00,217 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 15:43:00,220 - GmailPage -INFO - Click on sign in button
+2018-05-30 15:43:02,142 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 15:43:02,144 - Login Page -INFO - Entering the user's email ID
+2018-05-30 15:43:02,723 - Login Page -INFO - Clicking on enter
+2018-05-30 15:43:04,936 - Login -INFO - Enter user password
+2018-05-30 15:43:14,409 - check_mail_service -INFO - Click on compose button
+2018-05-30 15:43:14,418 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 15:43:14,717 - Home Page -INFO - Click on compose button.
+2018-05-30 15:43:17,488 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 15:43:17,489 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 15:43:28,343 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 15:43:37,889 - Home Page -INFO - Click on inbox filter option
+2018-05-30 15:43:41,889 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 15:43:42,306 - Home Page -INFO - Getting the attribute value.
+2018-05-30 15:43:42,449 - Home Page -INFO - Retrieving the count
+2018-05-30 15:43:51,963 - Home Page -INFO - Click on inbox filter option
+2018-05-30 15:43:56,121 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 15:43:56,566 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 15:43:56,693 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 15:43:56,698 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 15:43:56,781 - Post-Condition -INFO - Close the browser
+2018-05-30 15:44:05,940 - sendMail -INFO - Mail sent successfully
+2018-05-30 16:25:05,069 - Pre-Condition -INFO - Open the Browser
+2018-05-30 16:25:10,654 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 16:25:19,328 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 16:25:19,336 - GmailPage -INFO - Click on sign in button
+2018-05-30 16:25:21,344 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 16:25:21,347 - Login Page -INFO - Entering the user's email ID
+2018-05-30 16:25:22,443 - Login Page -INFO - Clicking on enter
+2018-05-30 16:25:24,680 - Login -INFO - Enter user password
+2018-05-30 16:25:34,093 - check_mail_service -INFO - Click on compose button
+2018-05-30 16:25:34,099 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 16:26:22,431 - Pre-Condition -INFO - Open the Browser
+2018-05-30 16:26:26,140 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 16:26:32,389 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 16:26:32,394 - GmailPage -INFO - Click on sign in button
+2018-05-30 16:26:34,029 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 16:26:34,030 - Login Page -INFO - Entering the user's email ID
+2018-05-30 16:26:36,939 - Login Page -INFO - Clicking on enter
+2018-05-30 16:26:39,157 - Login -INFO - Enter user password
+2018-05-30 16:26:48,543 - check_mail_service -INFO - Click on compose button
+2018-05-30 16:26:48,548 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 17:19:54,358 - Pre-Condition -INFO - Open the Browser
+2018-05-30 17:19:59,277 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 17:20:06,021 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 17:20:06,023 - GmailPage -INFO - Click on sign in button
+2018-05-30 17:20:07,621 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 17:20:07,622 - Login Page -INFO - Entering the user's email ID
+2018-05-30 17:20:08,510 - Login Page -INFO - Clicking on enter
+2018-05-30 17:20:10,779 - Login -INFO - Enter user password
+2018-05-30 17:20:20,209 - check_mail_service -INFO - Click on compose button
+2018-05-30 17:20:20,210 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 17:22:44,922 - Pre-Condition -INFO - Open the Browser
+2018-05-30 17:22:50,691 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 17:22:57,077 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 17:22:57,080 - GmailPage -INFO - Click on sign in button
+2018-05-30 17:22:58,774 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 17:22:58,775 - Login Page -INFO - Entering the user's email ID
+2018-05-30 17:22:59,755 - Login Page -INFO - Clicking on enter
+2018-05-30 17:23:01,964 - Login -INFO - Enter user password
+2018-05-30 17:23:11,355 - check_mail_service -INFO - Click on compose button
+2018-05-30 17:23:11,357 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 17:23:11,526 - Home Page -INFO - Click on compose button.
+2018-05-30 17:23:13,980 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 17:23:13,982 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 17:23:24,928 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 17:23:34,676 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:23:38,681 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:23:38,898 - Home Page -INFO - Getting the attribute value.
+2018-05-30 17:23:38,926 - Home Page -INFO - Retrieving the count
+2018-05-30 17:23:48,165 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:23:52,212 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:23:52,501 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 17:23:54,170 - Post-Condition -INFO - Close the browser
+2018-05-30 17:24:02,727 - sendMail -INFO - Mail sent successfully
+2018-05-30 17:25:13,182 - Pre-Condition -INFO - Open the Browser
+2018-05-30 17:25:17,211 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 17:25:21,885 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 17:25:21,886 - GmailPage -INFO - Click on sign in button
+2018-05-30 17:25:23,414 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 17:25:23,414 - Login Page -INFO - Entering the user's email ID
+2018-05-30 17:25:24,261 - Login Page -INFO - Clicking on enter
+2018-05-30 17:25:26,476 - Login -INFO - Enter user password
+2018-05-30 17:25:35,887 - check_mail_service -INFO - Click on compose button
+2018-05-30 17:25:35,930 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 17:25:36,028 - Home Page -INFO - Click on compose button.
+2018-05-30 17:25:38,461 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 17:25:38,463 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 17:25:49,807 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 17:25:59,418 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:26:03,461 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:26:03,773 - Home Page -INFO - Getting the attribute value.
+2018-05-30 17:26:03,800 - Home Page -INFO - Retrieving the count
+2018-05-30 17:26:13,140 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:26:17,339 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:26:17,605 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 17:26:27,691 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 17:26:27,692 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 17:26:37,844 - Post-Condition -INFO - Close the browser
+2018-05-30 17:26:45,453 - sendMail -INFO - Mail sent successfully
+2018-05-30 17:53:12,343 - Pre-Condition -INFO - Open the Browser
+2018-05-30 17:53:17,907 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 17:53:25,195 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 17:53:25,206 - GmailPage -INFO - Click on sign in button
+2018-05-30 17:53:26,912 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 17:53:26,914 - Login Page -INFO - Entering the user's email ID
+2018-05-30 17:53:27,957 - Login Page -INFO - Clicking on enter
+2018-05-30 17:53:30,223 - Login -INFO - Enter user password
+2018-05-30 17:53:39,613 - check_mail_service -INFO - Click on compose button
+2018-05-30 17:53:39,767 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 17:53:40,192 - Home Page -INFO - Click on compose button.
+2018-05-30 17:53:42,675 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 17:53:42,676 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 17:53:53,653 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 17:54:03,254 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:54:07,257 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:54:07,584 - Home Page -INFO - Getting the attribute value.
+2018-05-30 17:54:07,629 - Home Page -INFO - Retrieving the count
+2018-05-30 17:54:16,866 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:54:20,952 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:54:21,329 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 17:54:31,482 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 17:54:31,483 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 17:54:41,561 - Post-Condition -INFO - Close the browser
+2018-05-30 17:54:51,065 - sendMail -INFO - Mail sent successfully
+2018-05-30 17:55:12,844 - Pre-Condition -INFO - Open the Browser
+2018-05-30 17:55:20,725 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 17:55:26,120 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 17:55:26,128 - GmailPage -INFO - Click on sign in button
+2018-05-30 17:55:27,990 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 17:55:27,991 - Login Page -INFO - Entering the user's email ID
+2018-05-30 17:55:28,824 - Login Page -INFO - Clicking on enter
+2018-05-30 17:55:31,088 - Login -INFO - Enter user password
+2018-05-30 17:55:40,456 - check_mail_service -INFO - Click on compose button
+2018-05-30 17:55:40,512 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 17:55:40,864 - Home Page -INFO - Click on compose button.
+2018-05-30 17:55:43,361 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 17:55:43,361 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 17:55:54,051 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 17:56:03,580 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:56:07,616 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:56:08,080 - Home Page -INFO - Getting the attribute value.
+2018-05-30 17:56:08,172 - Home Page -INFO - Retrieving the count
+2018-05-30 17:56:17,671 - Home Page -INFO - Click on inbox filter option
+2018-05-30 17:56:21,741 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 17:56:22,164 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 17:56:32,248 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 17:56:32,373 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 17:56:42,675 - Post-Condition -INFO - Close the browser
+2018-05-30 17:56:52,107 - sendMail -INFO - Mail sent successfully
+2018-05-30 18:19:43,582 - Pre-Condition -INFO - Open the Browser
+2018-05-30 18:19:43,871 - Pre-Condition -INFO - Cannot open the chrome driver. Message:The driver executable does not exist: /Users/snehashish/shopkick_automation/CIService/E-Gov/./E-Gov/drivers/geckodriver
+2018-05-30 18:20:23,766 - Pre-Condition -INFO - Open the Browser
+2018-05-30 18:20:24,049 - Pre-Condition -INFO - Cannot open the chrome driver. Message:The driver executable does not exist: /Users/snehashish/shopkick_automation/CIService/E-Gov/./E-Gov/drivers/geckodriver
+2018-05-30 18:20:53,865 - Pre-Condition -INFO - Open the Browser
+2018-05-30 18:21:01,403 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 18:21:07,023 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 18:21:07,035 - GmailPage -INFO - Click on sign in button
+2018-05-30 18:21:08,829 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 18:21:08,833 - Login Page -INFO - Entering the user's email ID
+2018-05-30 18:21:09,557 - Login Page -INFO - Clicking on enter
+2018-05-30 18:21:11,857 - Login -INFO - Enter user password
+2018-05-30 18:23:51,074 - Pre-Condition -INFO - Open the Browser
+2018-05-30 18:23:58,684 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 18:24:04,401 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 18:24:04,402 - GmailPage -INFO - Click on sign in button
+2018-05-30 18:24:06,211 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 18:24:06,228 - Login Page -INFO - Entering the user's email ID
+2018-05-30 18:24:06,747 - Login Page -INFO - Clicking on enter
+2018-05-30 18:24:08,986 - Login -INFO - Enter user password
+2018-05-30 18:24:18,297 - check_mail_service -INFO - Click on compose button
+2018-05-30 18:24:18,306 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 18:24:18,559 - Home Page -INFO - Click on compose button.
+2018-05-30 18:24:21,177 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 18:24:21,177 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 18:24:31,838 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 18:24:41,476 - Home Page -INFO - Click on inbox filter option
+2018-05-30 18:24:45,480 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 18:24:45,854 - Home Page -INFO - Getting the attribute value.
+2018-05-30 18:24:46,029 - Home Page -INFO - Retrieving the count
+2018-05-30 18:24:55,514 - Home Page -INFO - Click on inbox filter option
+2018-05-30 18:24:59,632 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 18:25:00,178 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 18:25:10,262 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 18:25:10,293 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 18:25:20,503 - Post-Condition -INFO - Close the browser
+2018-05-30 18:25:28,369 - sendMail -INFO - Mail sent successfully
+2018-05-30 21:11:26,917 - Pre-Condition -INFO - Open the Browser
+2018-05-30 21:11:38,724 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 21:11:48,701 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 21:11:48,703 - GmailPage -INFO - Click on sign in button
+2018-05-30 21:11:51,237 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 21:11:51,237 - Login Page -INFO - Entering the user's email ID
+2018-05-30 21:11:51,618 - Login Page -INFO - Clicking on enter
+2018-05-30 21:11:53,802 - Login -INFO - Enter user password
+2018-05-30 21:12:03,108 - check_mail_service -INFO - Click on compose button
+2018-05-30 21:12:03,109 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 21:12:03,615 - Home Page -INFO - Click on compose button.
+2018-05-30 21:12:06,329 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 21:12:06,329 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 21:12:17,120 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 21:12:26,694 - Home Page -INFO - Click on inbox filter option
+2018-05-30 21:12:30,695 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 21:12:31,069 - Home Page -INFO - Getting the attribute value.
+2018-05-30 21:12:31,167 - Home Page -INFO - Retrieving the count
+2018-05-30 21:12:40,653 - Home Page -INFO - Click on inbox filter option
+2018-05-30 21:12:44,698 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 21:12:45,099 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 21:12:55,168 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 21:12:55,168 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 21:13:05,320 - Post-Condition -INFO - Close the browser
+2018-05-30 21:13:13,922 - sendMail -INFO - Mail sent successfully
+2018-05-30 22:03:12,084 - Pre-Condition -INFO - Open the Browser
+2018-05-30 22:03:19,586 - Pre-Condition -INFO - Cannot open the chrome driver. Message:Process unexpectedly closed with status 0
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+2018-05-30 22:04:34,153 - Pre-Condition -INFO - Open the Browser
+2018-05-30 23:26:44,113 - Pre-Condition -INFO - Open the Browser
+2018-05-30 23:26:52,375 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 23:26:59,341 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 23:26:59,364 - GmailPage -INFO - Click on sign in button
+2018-05-30 23:27:01,317 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 23:27:01,319 - Login Page -INFO - Entering the user's email ID
+2018-05-30 23:27:01,772 - Login Page -INFO - Clicking on enter
+2018-05-30 23:27:04,041 - Login -INFO - Enter user password
+2018-05-30 23:27:13,442 - check_mail_service -INFO - Click on compose button
+2018-05-30 23:27:13,500 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 23:27:13,865 - Home Page -INFO - Click on compose button.
+2018-05-30 23:27:16,822 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 23:27:16,823 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 23:27:28,253 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 23:27:38,675 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:27:43,048 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:27:43,413 - Home Page -INFO - Getting the attribute value.
+2018-05-30 23:27:43,470 - Home Page -INFO - Retrieving the count
+2018-05-30 23:27:53,088 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:27:57,269 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:27:57,689 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 23:28:07,783 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 23:28:07,784 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 23:28:17,974 - Post-Condition -INFO - Close the browser
+2018-05-30 23:28:27,581 - sendMail -INFO - Mail sent successfully
+2018-05-30 23:38:37,418 - Pre-Condition -INFO - Open the Browser
+2018-05-30 23:38:45,349 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 23:38:50,839 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 23:38:50,846 - GmailPage -INFO - Click on sign in button
+2018-05-30 23:38:52,786 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 23:38:52,787 - Login Page -INFO - Entering the user's email ID
+2018-05-30 23:38:53,367 - Login Page -INFO - Clicking on enter
+2018-05-30 23:38:55,637 - Login -INFO - Enter user password
+2018-05-30 23:39:05,007 - check_mail_service -INFO - Click on compose button
+2018-05-30 23:39:05,014 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 23:39:05,325 - Home Page -INFO - Click on compose button.
+2018-05-30 23:39:08,028 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 23:39:08,028 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 23:39:18,800 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 23:39:28,331 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:39:32,384 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:39:32,787 - Home Page -INFO - Getting the attribute value.
+2018-05-30 23:39:32,903 - Home Page -INFO - Retrieving the count
+2018-05-30 23:39:42,379 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:39:46,646 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:39:47,075 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 23:39:57,151 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 23:39:57,301 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 23:40:07,456 - Post-Condition -INFO - Close the browser
+2018-05-30 23:40:16,596 - sendMail -INFO - Mail sent successfully
+2018-05-30 23:41:27,568 - Pre-Condition -INFO - Open the Browser
+2018-05-30 23:41:34,487 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 23:41:39,170 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 23:41:39,171 - GmailPage -INFO - Click on sign in button
+2018-05-30 23:41:41,083 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 23:41:41,092 - Login Page -INFO - Entering the user's email ID
+2018-05-30 23:41:41,677 - Login Page -INFO - Clicking on enter
+2018-05-30 23:41:43,949 - Login -INFO - Enter user password
+2018-05-30 23:41:53,259 - check_mail_service -INFO - Click on compose button
+2018-05-30 23:41:53,261 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 23:41:53,683 - Home Page -INFO - Click on compose button.
+2018-05-30 23:41:56,616 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 23:41:56,617 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 23:42:07,290 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 23:42:16,859 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:42:20,860 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:42:21,275 - Home Page -INFO - Getting the attribute value.
+2018-05-30 23:42:21,425 - Home Page -INFO - Retrieving the count
+2018-05-30 23:42:30,950 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:42:35,059 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:42:35,483 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 23:42:45,570 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 23:42:45,692 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 23:42:55,867 - Post-Condition -INFO - Close the browser
+2018-05-30 23:43:05,556 - sendMail -INFO - Mail sent successfully
+2018-05-30 23:49:17,921 - Pre-Condition -INFO - Open the Browser
+2018-05-30 23:49:26,733 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 23:49:33,376 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 23:49:33,378 - GmailPage -INFO - Click on sign in button
+2018-05-30 23:49:35,216 - check_mail_service -INFO - Step 2: The email and password should be read from a config file
+2018-05-30 23:49:35,217 - Login Page -INFO - Entering the user's email ID
+2018-05-30 23:49:35,594 - Login Page -INFO - Clicking on enter
+2018-05-30 23:49:37,788 - Login -INFO - Enter user password
+2018-05-30 23:49:47,125 - check_mail_service -INFO - Click on compose button
+2018-05-30 23:49:47,137 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 23:49:47,525 - Home Page -INFO - Click on compose button.
+2018-05-30 23:49:50,140 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 23:49:50,141 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 23:50:00,791 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 23:50:10,831 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:50:14,833 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:50:15,304 - Home Page -INFO - Getting the attribute value.
+2018-05-30 23:50:15,360 - Home Page -INFO - Retrieving the count
+2018-05-30 23:50:24,841 - Home Page -INFO - Click on inbox filter option
+2018-05-30 23:50:29,013 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 23:50:29,436 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 23:50:39,517 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 23:50:39,550 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 23:50:49,714 - Post-Condition -INFO - Close the browser
+2018-05-30 23:50:58,951 - sendMail -INFO - Mail sent successfully

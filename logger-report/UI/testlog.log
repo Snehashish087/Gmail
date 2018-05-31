@@ -1,0 +1,1197 @@
+2018-05-29 12:42:55,326 - Pre-Condition -INFO - Open the Browser
+2018-05-29 12:43:00,071 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 12:54:51,788 - Pre-Condition -INFO - Open the Browser
+2018-05-29 12:54:56,759 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:05:00,227 - Pre-Condition -INFO - Open the Browser
+2018-05-29 13:05:05,091 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:06:15,586 - Pre-Condition -INFO - Open the Browser
+2018-05-29 13:06:18,102 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:11:28,285 - Pre-Condition -INFO - Open the Browser
+2018-05-29 13:11:29,225 - Pre-Condition -INFO - Open the Browser
+2018-05-29 13:11:31,168 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:11:32,469 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:11:36,322 - Post-Condition -INFO - Close the browser
+2018-05-29 13:11:37,279 - Post-Condition -INFO - Close the browser
+2018-05-29 13:11:52,413 - Pre-Condition -INFO - Open the Browser
+2018-05-29 13:11:54,709 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:11:58,123 - Post-Condition -INFO - Close the browser
+2018-05-29 13:57:24,203 - Pre-Condition -INFO - Open the Browser
+2018-05-29 13:57:27,107 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 13:57:31,240 - Post-Condition -INFO - Close the browser
+2018-05-29 13:57:37,981 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:01:21,381 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:01:23,949 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:01:27,880 - Post-Condition -INFO - Close the browser
+2018-05-29 14:01:33,564 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:03:48,997 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:03:51,264 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:04:50,230 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:04:53,174 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:05:02,161 - Post-Condition -INFO - Close the browser
+2018-05-29 14:05:07,828 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:06:45,977 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:06:48,652 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:06:57,412 - Post-Condition -INFO - Close the browser
+2018-05-29 14:07:03,538 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:11:34,757 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:11:38,589 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:11:41,937 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:11:43,405 - Post-Condition -INFO - Close the browser
+2018-05-29 14:11:49,240 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:18:28,964 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:18:34,037 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:18:36,316 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:18:38,388 - Post-Condition -INFO - Close the browser
+2018-05-29 14:18:44,073 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:26:03,719 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:30:39,275 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:30:44,380 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:30:47,214 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:30:48,861 - Post-Condition -INFO - Close the browser
+2018-05-29 14:30:54,738 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:32:25,710 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:32:28,062 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:32:30,526 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:32:31,926 - Login Page -INFO - Entering the user's email ID
+2018-05-29 14:32:32,876 - Login Page -INFO - Clicking on enter
+2018-05-29 14:32:32,974 - Login Page -INFO - Entering the user's password
+2018-05-29 14:32:34,685 - Post-Condition -INFO - Close the browser
+2018-05-29 14:32:41,212 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:33:35,814 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:33:37,806 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:33:40,867 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:33:42,271 - Login Page -INFO - Entering the user's email ID
+2018-05-29 14:33:43,089 - Login Page -INFO - Clicking on enter
+2018-05-29 14:33:43,178 - Login Page -INFO - Entering the user's password
+2018-05-29 14:33:45,057 - Post-Condition -INFO - Close the browser
+2018-05-29 14:33:50,643 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:34:13,557 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:34:15,752 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:34:17,910 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:34:19,184 - Login Page -INFO - Entering the user's email ID
+2018-05-29 14:34:20,054 - Login Page -INFO - Clicking on enter
+2018-05-29 14:34:20,145 - Login Page -INFO - Entering the user's password
+2018-05-29 14:34:21,840 - Post-Condition -INFO - Close the browser
+2018-05-29 14:34:27,505 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:42:03,468 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:42:06,681 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:42:09,354 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:42:10,936 - Login Page -INFO - Entering the user's email ID
+2018-05-29 14:42:11,772 - Login Page -INFO - Clicking on enter
+2018-05-29 14:42:13,287 - Post-Condition -INFO - Close the browser
+2018-05-29 14:42:19,274 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:45:03,734 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:45:06,992 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:45:09,662 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:45:10,921 - Login Page -INFO - Entering the user's email ID
+2018-05-29 14:45:12,033 - Login Page -INFO - Clicking on enter
+2018-05-29 14:45:13,405 - Post-Condition -INFO - Close the browser
+2018-05-29 14:45:19,196 - sendMail -INFO - Mail sent successfully
+2018-05-29 14:46:11,974 - Pre-Condition -INFO - Open the Browser
+2018-05-29 14:46:14,154 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 14:46:16,505 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 14:46:17,790 - Login Page -INFO - Entering the user's email ID
+2018-05-29 14:46:18,730 - Login Page -INFO - Clicking on enter
+2018-05-29 14:46:27,093 - Post-Condition -INFO - Close the browser
+2018-05-29 14:46:32,618 - sendMail -INFO - Mail sent successfully
+2018-05-29 16:41:00,521 - Pre-Condition -INFO - Open the Browser
+2018-05-29 16:41:05,433 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 16:41:10,244 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 16:41:11,537 - Login Page -INFO - Entering the user's email ID
+2018-05-29 16:41:13,181 - Login Page -INFO - Clicking on enter
+2018-05-29 16:41:28,353 - Post-Condition -INFO - Close the browser
+2018-05-29 16:41:34,328 - sendMail -INFO - Mail sent successfully
+2018-05-29 16:44:02,763 - Pre-Condition -INFO - Open the Browser
+2018-05-29 16:44:07,019 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 16:44:10,172 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 16:44:11,467 - Login Page -INFO - Entering the user's email ID
+2018-05-29 16:44:12,444 - Login Page -INFO - Clicking on enter
+2018-05-29 16:44:26,281 - Post-Condition -INFO - Close the browser
+2018-05-29 16:44:31,690 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:05:32,822 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:05:38,133 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:05:41,917 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:05:43,232 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:05:44,325 - Login Page -INFO - Clicking on enter
+2018-05-29 17:05:58,389 - Post-Condition -INFO - Close the browser
+2018-05-29 17:06:05,239 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:06:59,005 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:07:01,944 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:07:04,674 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:07:05,848 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:07:06,748 - Login Page -INFO - Clicking on enter
+2018-05-29 17:07:36,219 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:07:39,946 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:07:43,142 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:07:44,299 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:07:45,143 - Login Page -INFO - Clicking on enter
+2018-05-29 17:10:44,673 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:10:49,116 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:10:52,421 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:10:53,836 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:10:55,025 - Login Page -INFO - Clicking on enter
+2018-05-29 17:12:09,228 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:12:12,418 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:12:14,711 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:12:15,898 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:12:16,923 - Login Page -INFO - Clicking on enter
+2018-05-29 17:13:15,229 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:13:17,993 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:13:20,357 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:13:21,711 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:13:22,665 - Login Page -INFO - Clicking on enter
+2018-05-29 17:13:37,211 - Post-Condition -INFO - Close the browser
+2018-05-29 17:13:42,903 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:14:46,874 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:14:50,605 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:14:53,226 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:14:54,671 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:14:55,710 - Login Page -INFO - Clicking on enter
+2018-05-29 17:15:09,826 - Post-Condition -INFO - Close the browser
+2018-05-29 17:15:15,374 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:15:36,387 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:15:39,355 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:15:42,536 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:15:44,184 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:15:45,138 - Login Page -INFO - Clicking on enter
+2018-05-29 17:21:41,557 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:21:46,579 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:21:50,118 - GmailPage -INFO - Trying to click on the sign in button
+2018-05-29 17:21:51,499 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:21:52,553 - Login Page -INFO - Clicking on enter
+2018-05-29 17:22:32,648 - Post-Condition -INFO - Close the browser
+2018-05-29 17:22:39,049 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:25:40,555 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:25:45,572 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:25:48,622 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:25:50,645 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:25:52,108 - Login Page -INFO - Clicking on enter
+2018-05-29 17:26:32,628 - Post-Condition -INFO - Close the browser
+2018-05-29 17:26:38,887 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:28:27,765 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:28:32,132 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:28:35,192 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:28:36,641 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:28:37,710 - Login Page -INFO - Clicking on enter
+2018-05-29 17:28:58,840 - Post-Condition -INFO - Close the browser
+2018-05-29 17:29:04,800 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:42:25,225 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:42:29,547 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:42:32,933 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:42:32,938 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:42:34,241 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:42:35,288 - Login Page -INFO - Clicking on enter
+2018-05-29 17:42:43,510 - Login -INFO - Enter user password
+2018-05-29 17:42:44,620 - Post-Condition -INFO - Close the browser
+2018-05-29 17:42:51,186 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:43:05,534 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:43:08,153 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:43:11,191 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:43:11,193 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:43:12,506 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:43:13,445 - Login Page -INFO - Clicking on enter
+2018-05-29 17:43:21,550 - Login -INFO - Enter user password
+2018-05-29 17:43:22,557 - Post-Condition -INFO - Close the browser
+2018-05-29 17:43:28,284 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:43:40,071 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:43:42,351 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:43:44,929 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:43:44,932 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:43:46,351 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:43:47,168 - Login Page -INFO - Clicking on enter
+2018-05-29 17:43:55,278 - Login -INFO - Enter user password
+2018-05-29 17:43:55,579 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:43:55,580 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:44:19,678 - Home Page -INFO - Click on compose button.
+2018-05-29 17:44:29,400 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 17:44:30,481 - Post-Condition -INFO - Close the browser
+2018-05-29 17:44:36,148 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:49:31,846 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:49:36,237 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:49:39,808 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:49:39,839 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:49:41,233 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:49:42,330 - Login Page -INFO - Clicking on enter
+2018-05-29 17:49:50,480 - Login -INFO - Enter user password
+2018-05-29 17:49:50,768 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:49:50,769 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:49:55,250 - Home Page -INFO - Click on compose button.
+2018-05-29 17:50:00,532 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 17:50:01,325 - Post-Condition -INFO - Close the browser
+2018-05-29 17:50:07,365 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:50:50,422 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:50:53,084 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:50:56,931 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:50:56,933 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:50:58,146 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:50:59,011 - Login Page -INFO - Clicking on enter
+2018-05-29 17:51:07,120 - Login -INFO - Enter user password
+2018-05-29 17:51:07,498 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:51:07,498 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:51:12,428 - Home Page -INFO - Click on compose button.
+2018-05-29 17:51:48,800 - Post-Condition -INFO - Close the browser
+2018-05-29 17:51:54,636 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:52:57,947 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:53:01,920 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:53:04,436 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:53:04,437 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:53:05,668 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:53:06,550 - Login Page -INFO - Clicking on enter
+2018-05-29 17:53:14,659 - Login -INFO - Enter user password
+2018-05-29 17:53:15,071 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:53:15,071 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:53:21,323 - Home Page -INFO - Click on compose button.
+2018-05-29 17:53:58,482 - Post-Condition -INFO - Close the browser
+2018-05-29 17:54:04,517 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:54:49,312 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:54:52,991 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:54:55,568 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:54:55,569 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:54:56,936 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:54:57,827 - Login Page -INFO - Clicking on enter
+2018-05-29 17:55:05,939 - Login -INFO - Enter user password
+2018-05-29 17:55:06,239 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:55:06,240 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:55:12,030 - Home Page -INFO - Click on compose button.
+2018-05-29 17:55:17,200 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 17:55:18,391 - Post-Condition -INFO - Close the browser
+2018-05-29 17:55:24,254 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:57:49,971 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:57:52,890 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:57:56,141 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:57:56,141 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:57:57,715 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:57:58,728 - Login Page -INFO - Clicking on enter
+2018-05-29 17:58:06,841 - Login -INFO - Enter user password
+2018-05-29 17:58:07,100 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:58:07,100 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:58:12,401 - Home Page -INFO - Click on compose button.
+2018-05-29 17:58:17,604 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 17:58:18,369 - Post-Condition -INFO - Close the browser
+2018-05-29 17:58:24,279 - sendMail -INFO - Mail sent successfully
+2018-05-29 17:59:21,526 - Pre-Condition -INFO - Open the Browser
+2018-05-29 17:59:24,275 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 17:59:26,914 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 17:59:26,915 - GmailPage -INFO - Click on sign in button
+2018-05-29 17:59:28,251 - Login Page -INFO - Entering the user's email ID
+2018-05-29 17:59:29,185 - Login Page -INFO - Clicking on enter
+2018-05-29 17:59:37,302 - Login -INFO - Enter user password
+2018-05-29 17:59:37,606 - check_mail_service -INFO - Click on compose button
+2018-05-29 17:59:37,606 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 17:59:45,601 - Home Page -INFO - Click on compose button.
+2018-05-29 17:59:50,741 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 17:59:51,445 - Post-Condition -INFO - Close the browser
+2018-05-29 17:59:57,155 - sendMail -INFO - Mail sent successfully
+2018-05-29 18:08:57,708 - Pre-Condition -INFO - Open the Browser
+2018-05-29 18:09:02,295 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 18:09:05,679 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 18:09:05,701 - GmailPage -INFO - Click on sign in button
+2018-05-29 18:09:07,131 - Login Page -INFO - Entering the user's email ID
+2018-05-29 18:09:08,056 - Login Page -INFO - Clicking on enter
+2018-05-29 18:09:16,164 - Login -INFO - Enter user password
+2018-05-29 18:09:16,521 - check_mail_service -INFO - Click on compose button
+2018-05-29 18:09:16,521 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 18:09:22,547 - Home Page -INFO - Click on compose button.
+2018-05-29 18:09:27,713 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 18:09:32,794 - Post-Condition -INFO - Close the browser
+2018-05-29 18:09:39,824 - sendMail -INFO - Mail sent successfully
+2018-05-29 18:12:14,489 - Pre-Condition -INFO - Open the Browser
+2018-05-29 18:12:18,947 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 18:12:22,000 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 18:12:22,038 - GmailPage -INFO - Click on sign in button
+2018-05-29 18:12:23,673 - Login Page -INFO - Entering the user's email ID
+2018-05-29 18:12:24,443 - Login Page -INFO - Clicking on enter
+2018-05-29 18:12:32,629 - Login -INFO - Enter user password
+2018-05-29 18:12:32,923 - check_mail_service -INFO - Click on compose button
+2018-05-29 18:12:32,924 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 18:12:38,830 - Home Page -INFO - Click on compose button.
+2018-05-29 18:12:44,101 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 18:12:48,867 - Post-Condition -INFO - Close the browser
+2018-05-29 18:12:54,241 - sendMail -INFO - Mail sent successfully
+2018-05-29 18:16:05,076 - Pre-Condition -INFO - Open the Browser
+2018-05-29 18:16:09,791 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 18:16:14,343 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 18:16:14,361 - GmailPage -INFO - Click on sign in button
+2018-05-29 18:16:15,898 - Login Page -INFO - Entering the user's email ID
+2018-05-29 18:16:16,924 - Login Page -INFO - Clicking on enter
+2018-05-29 18:16:25,068 - Login -INFO - Enter user password
+2018-05-29 18:16:25,321 - check_mail_service -INFO - Click on compose button
+2018-05-29 18:16:25,321 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 18:16:31,410 - Home Page -INFO - Click on compose button.
+2018-05-29 18:16:36,601 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 18:16:45,141 - Message Content -INFO - Entering the mail subject
+2018-05-29 18:16:49,659 - Message Content -INFO - Enter the body of the mail.
+2018-05-29 18:16:54,891 - Post-Condition -INFO - Close the browser
+2018-05-29 18:17:01,035 - sendMail -INFO - Mail sent successfully
+2018-05-29 18:18:22,672 - Pre-Condition -INFO - Open the Browser
+2018-05-29 18:18:26,004 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 18:18:28,509 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 18:18:28,511 - GmailPage -INFO - Click on sign in button
+2018-05-29 18:18:29,754 - Login Page -INFO - Entering the user's email ID
+2018-05-29 18:18:30,650 - Login Page -INFO - Clicking on enter
+2018-05-29 18:18:38,764 - Login -INFO - Enter user password
+2018-05-29 18:18:39,027 - check_mail_service -INFO - Click on compose button
+2018-05-29 18:18:39,028 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 18:18:45,373 - Home Page -INFO - Click on compose button.
+2018-05-29 18:18:50,606 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 18:18:59,164 - Message Content -INFO - Entering the mail subject
+2018-05-29 18:19:03,503 - Message Content -INFO - Enter the body of the mail.
+2018-05-29 18:19:08,518 - Post-Condition -INFO - Close the browser
+2018-05-29 18:19:14,713 - sendMail -INFO - Mail sent successfully
+2018-05-29 18:20:49,624 - Pre-Condition -INFO - Open the Browser
+2018-05-29 18:20:53,271 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 18:20:55,681 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 18:20:55,683 - GmailPage -INFO - Click on sign in button
+2018-05-29 18:20:56,912 - Login Page -INFO - Entering the user's email ID
+2018-05-29 18:20:57,758 - Login Page -INFO - Clicking on enter
+2018-05-29 18:21:05,872 - Login -INFO - Enter user password
+2018-05-29 18:21:06,153 - check_mail_service -INFO - Click on compose button
+2018-05-29 18:21:06,154 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 18:21:12,190 - Home Page -INFO - Click on compose button.
+2018-05-29 18:21:18,070 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 18:21:26,622 - Message Content -INFO - Entering the mail subject
+2018-05-29 18:21:30,918 - Message Content -INFO - Enter the body of the mail.
+2018-05-29 18:21:31,665 - Post-Condition -INFO - Close the browser
+2018-05-29 18:21:37,155 - sendMail -INFO - Mail sent successfully
+2018-05-29 18:22:35,510 - Pre-Condition -INFO - Open the Browser
+2018-05-29 18:22:38,750 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 18:22:41,490 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 18:22:41,491 - GmailPage -INFO - Click on sign in button
+2018-05-29 18:22:42,615 - Login Page -INFO - Entering the user's email ID
+2018-05-29 18:22:43,419 - Login Page -INFO - Clicking on enter
+2018-05-29 18:22:51,521 - Login -INFO - Enter user password
+2018-05-29 18:22:51,815 - check_mail_service -INFO - Click on compose button
+2018-05-29 18:22:51,816 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 18:22:57,881 - Home Page -INFO - Click on compose button.
+2018-05-29 18:23:03,176 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 18:23:11,737 - Message Content -INFO - Entering the mail subject
+2018-05-29 18:23:15,956 - Message Content -INFO - Enter the body of the mail.
+2018-05-29 18:23:24,500 - Post-Condition -INFO - Close the browser
+2018-05-29 18:23:30,310 - sendMail -INFO - Mail sent successfully
+2018-05-29 22:04:14,389 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:04:19,183 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:04:21,998 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:04:22,070 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:04:23,549 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:04:24,547 - Login Page -INFO - Clicking on enter
+2018-05-29 22:04:32,722 - Login -INFO - Enter user password
+2018-05-29 22:04:33,005 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:04:33,006 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:05:03,843 - Post-Condition -INFO - Close the browser
+2018-05-29 22:05:11,015 - sendMail -INFO - Mail sent successfully
+2018-05-29 22:05:30,274 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:05:34,019 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:05:36,085 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:05:36,086 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:05:37,384 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:05:38,241 - Login Page -INFO - Clicking on enter
+2018-05-29 22:05:46,349 - Login -INFO - Enter user password
+2018-05-29 22:05:46,723 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:05:46,724 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:06:20,901 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:06:25,710 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:06:28,794 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:06:28,799 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:06:30,154 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:06:31,087 - Login Page -INFO - Clicking on enter
+2018-05-29 22:06:39,207 - Login -INFO - Enter user password
+2018-05-29 22:06:39,601 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:06:39,602 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:07:26,708 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:07:31,169 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:07:33,731 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:07:33,736 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:07:35,593 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:07:36,355 - Login Page -INFO - Clicking on enter
+2018-05-29 22:07:38,474 - Login -INFO - Enter user password
+2018-05-29 22:07:38,835 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:07:38,836 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:08:31,613 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:08:36,306 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:08:39,088 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:08:39,095 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:08:40,324 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:08:41,248 - Login Page -INFO - Clicking on enter
+2018-05-29 22:08:43,359 - Login -INFO - Enter user password
+2018-05-29 22:08:48,659 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:08:48,660 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:08:59,872 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:09:02,993 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:09:05,957 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:09:05,959 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:09:07,394 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:09:08,435 - Login Page -INFO - Clicking on enter
+2018-05-29 22:09:10,716 - Login -INFO - Enter user password
+2018-05-29 22:09:20,018 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:09:20,018 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:10:25,181 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:10:29,049 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:10:31,354 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:10:31,355 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:10:32,599 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:10:33,434 - Login Page -INFO - Clicking on enter
+2018-05-29 22:10:35,557 - Login -INFO - Enter user password
+2018-05-29 22:10:45,036 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:10:45,051 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:56:51,723 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:56:55,909 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:56:59,223 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:56:59,223 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:57:00,608 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:57:01,648 - Login Page -INFO - Clicking on enter
+2018-05-29 22:57:04,028 - Login -INFO - Enter user password
+2018-05-29 22:57:13,353 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:57:13,354 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:58:13,929 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:58:16,455 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:58:18,462 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:58:18,464 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:58:19,709 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:58:20,432 - Login Page -INFO - Clicking on enter
+2018-05-29 22:58:22,534 - Login -INFO - Enter user password
+2018-05-29 22:58:31,827 - check_mail_service -INFO - Click on compose button
+2018-05-29 22:58:31,827 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 22:59:43,948 - Pre-Condition -INFO - Open the Browser
+2018-05-29 22:59:46,114 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 22:59:47,939 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 22:59:47,939 - GmailPage -INFO - Click on sign in button
+2018-05-29 22:59:49,150 - Login Page -INFO - Entering the user's email ID
+2018-05-29 22:59:49,886 - Login Page -INFO - Clicking on enter
+2018-05-29 22:59:52,001 - Login -INFO - Enter user password
+2018-05-29 23:00:01,321 - check_mail_service -INFO - Click on compose button
+2018-05-29 23:00:01,322 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 23:01:10,582 - Pre-Condition -INFO - Open the Browser
+2018-05-29 23:01:31,133 - Pre-Condition -INFO - Cannot open the chrome driver. Message:Timed out waiting for driver server to start.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: ChromeDriver
+2018-05-29 23:02:03,580 - Pre-Condition -INFO - Open the Browser
+2018-05-29 23:02:24,133 - Pre-Condition -INFO - Cannot open the chrome driver. Message:Timed out waiting for driver server to start.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: ChromeDriver
+2018-05-29 23:02:43,162 - Pre-Condition -INFO - Open the Browser
+2018-05-29 23:03:03,758 - Pre-Condition -INFO - Cannot open the chrome driver. Message:Timed out waiting for driver server to start.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: ChromeDriver
+2018-05-29 23:04:30,034 - Pre-Condition -INFO - Open the Browser
+2018-05-29 23:04:48,436 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 23:04:54,468 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 23:04:54,469 - GmailPage -INFO - Click on sign in button
+2018-05-29 23:04:55,053 - Login Page -INFO - Entering the user's email ID
+2018-05-29 23:04:58,384 - Post-Condition -INFO - Close the browser
+2018-05-29 23:05:06,244 - sendMail -INFO - Mail sent successfully
+2018-05-29 23:06:12,535 - Pre-Condition -INFO - Open the Browser
+2018-05-29 23:06:21,548 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 23:06:24,458 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 23:06:24,459 - GmailPage -INFO - Click on sign in button
+2018-05-29 23:06:26,515 - Login Page -INFO - Entering the user's email ID
+2018-05-29 23:06:27,283 - Login Page -INFO - Clicking on enter
+2018-05-29 23:06:29,409 - Login -INFO - Enter user password
+2018-05-29 23:06:38,665 - check_mail_service -INFO - Click on compose button
+2018-05-29 23:06:38,667 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 23:06:39,156 - Home Page -INFO - Click on compose button.
+2018-05-29 23:06:45,179 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 23:06:53,568 - Message Content -INFO - Entering the mail subject
+2018-05-29 23:06:57,852 - Message Content -INFO - Enter the body of the mail.
+2018-05-29 23:07:18,263 - Post-Condition -INFO - Close the browser
+2018-05-29 23:07:25,964 - sendMail -INFO - Mail sent successfully
+2018-05-29 23:13:58,175 - Pre-Condition -INFO - Open the Browser
+2018-05-29 23:14:04,171 - Pre-Condition -INFO - Navigate to the website
+2018-05-29 23:14:07,282 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-29 23:14:07,286 - GmailPage -INFO - Click on sign in button
+2018-05-29 23:14:08,772 - Login Page -INFO - Entering the user's email ID
+2018-05-29 23:14:09,123 - Login Page -INFO - Clicking on enter
+2018-05-29 23:14:11,252 - Login -INFO - Enter user password
+2018-05-29 23:14:20,589 - check_mail_service -INFO - Click on compose button
+2018-05-29 23:14:20,604 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-29 23:14:21,055 - Home Page -INFO - Click on compose button.
+2018-05-29 23:14:26,860 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-29 23:14:35,160 - Message Content -INFO - Entering the mail subject
+2018-05-29 23:14:39,261 - Message Content -INFO - Enter the body of the mail.
+2018-05-29 23:14:59,719 - Post-Condition -INFO - Close the browser
+2018-05-29 23:15:07,678 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:04:24,886 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:04:33,468 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:04:48,549 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:04:48,603 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:04:50,215 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:04:50,584 - Login Page -INFO - Clicking on enter
+2018-05-30 00:04:52,725 - Login -INFO - Enter user password
+2018-05-30 00:05:01,965 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:05:01,967 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:05:02,280 - Home Page -INFO - Click on compose button.
+2018-05-30 00:05:08,033 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:05:16,348 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:05:20,441 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:05:34,690 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:05:34,727 - Home Page -INFO - Retrieve the count
+2018-05-30 00:05:40,737 - Post-Condition -INFO - Close the browser
+2018-05-30 00:05:49,269 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:11:54,420 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:12:00,820 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:12:04,539 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:12:04,541 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:12:06,799 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:12:07,302 - Login Page -INFO - Clicking on enter
+2018-05-30 00:12:09,561 - Login -INFO - Enter user password
+2018-05-30 00:12:18,849 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:12:18,852 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:12:19,061 - Home Page -INFO - Click on compose button.
+2018-05-30 00:12:24,606 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:12:33,090 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:12:37,292 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:12:51,545 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:12:51,703 - Home Page -INFO - Retrieve the count
+2018-05-30 00:12:57,706 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:12:58,485 - Post-Condition -INFO - Close the browser
+2018-05-30 00:13:06,720 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:15:32,085 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:15:38,856 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:15:41,868 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:15:41,872 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:15:43,301 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:15:43,676 - Login Page -INFO - Clicking on enter
+2018-05-30 00:15:46,035 - Login -INFO - Enter user password
+2018-05-30 00:15:55,340 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:15:55,341 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:15:55,486 - Home Page -INFO - Click on compose button.
+2018-05-30 00:16:01,003 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:16:09,378 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:16:13,638 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:16:27,974 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:16:28,012 - Home Page -INFO - Retrieve the count
+2018-05-30 00:16:34,014 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:16:34,705 - Post-Condition -INFO - Close the browser
+2018-05-30 00:16:42,369 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:19:03,121 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:19:10,309 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:19:13,077 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:19:13,078 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:19:14,668 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:19:15,405 - Login Page -INFO - Clicking on enter
+2018-05-30 00:19:17,545 - Login -INFO - Enter user password
+2018-05-30 00:19:26,815 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:19:26,817 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:19:27,149 - Home Page -INFO - Click on compose button.
+2018-05-30 00:19:32,795 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:19:41,150 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:19:45,298 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:19:59,636 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:19:59,675 - Home Page -INFO - Retrieve the count
+2018-05-30 00:20:12,557 - Post-Condition -INFO - Close the browser
+2018-05-30 00:20:20,797 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:25:07,290 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:25:13,289 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:25:16,048 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:25:16,051 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:25:17,706 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:25:18,177 - Login Page -INFO - Clicking on enter
+2018-05-30 00:25:20,290 - Login -INFO - Enter user password
+2018-05-30 00:25:29,665 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:25:29,667 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:25:29,851 - Home Page -INFO - Click on compose button.
+2018-05-30 00:25:35,358 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:25:43,734 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:25:47,885 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:26:02,226 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:26:02,294 - Home Page -INFO - Retrieve the count
+2018-05-30 00:26:09,160 - Post-Condition -INFO - Close the browser
+2018-05-30 00:26:17,157 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:28:37,938 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:28:44,369 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:28:46,950 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:28:46,968 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:28:48,633 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:28:49,146 - Login Page -INFO - Clicking on enter
+2018-05-30 00:28:51,265 - Login -INFO - Enter user password
+2018-05-30 00:29:00,472 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:29:00,474 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:29:00,694 - Home Page -INFO - Click on compose button.
+2018-05-30 00:29:06,223 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:29:14,539 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:29:18,639 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:29:32,911 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:29:33,014 - Home Page -INFO - Retrieve the count
+2018-05-30 00:29:42,492 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:29:46,496 - Home Page -INFO - Fetching the contents in list
+2018-05-30 00:29:47,127 - Post-Condition -INFO - Close the browser
+2018-05-30 00:29:54,837 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:31:10,125 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:31:16,665 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:31:19,304 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:31:19,305 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:31:20,778 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:31:21,043 - Login Page -INFO - Clicking on enter
+2018-05-30 00:31:23,310 - Login -INFO - Enter user password
+2018-05-30 00:31:32,533 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:31:32,558 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:31:32,739 - Home Page -INFO - Click on compose button.
+2018-05-30 00:31:38,431 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:31:46,759 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:31:50,840 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:32:05,106 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:32:05,264 - Home Page -INFO - Retrieve the count
+2018-05-30 00:32:14,866 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:32:18,870 - Home Page -INFO - Fetching the contents in list
+2018-05-30 00:32:22,899 - Post-Condition -INFO - Close the browser
+2018-05-30 00:32:30,705 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:46:22,245 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:46:28,193 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:46:31,039 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:46:31,041 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:46:32,863 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:46:33,803 - Login Page -INFO - Clicking on enter
+2018-05-30 00:46:36,086 - Login -INFO - Enter user password
+2018-05-30 00:46:45,360 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:46:45,364 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:46:45,739 - Home Page -INFO - Click on compose button.
+2018-05-30 00:46:51,362 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:46:59,728 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:47:03,884 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:47:18,234 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:47:18,285 - Home Page -INFO - Retrieve the count
+2018-05-30 00:47:27,882 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:47:31,889 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 00:47:32,520 - Post-Condition -INFO - Close the browser
+2018-05-30 00:47:42,465 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:48:12,329 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:48:18,071 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:48:20,678 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:48:20,681 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:48:22,163 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:48:22,674 - Login Page -INFO - Clicking on enter
+2018-05-30 00:48:24,790 - Login -INFO - Enter user password
+2018-05-30 00:48:34,027 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:48:34,028 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:48:34,214 - Home Page -INFO - Click on compose button.
+2018-05-30 00:48:39,660 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:48:47,989 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:48:52,094 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:49:06,350 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:49:06,415 - Home Page -INFO - Retrieve the count
+2018-05-30 00:49:15,996 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:49:20,002 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 00:49:20,686 - Post-Condition -INFO - Close the browser
+2018-05-30 00:49:28,530 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:51:40,359 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:51:46,830 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:51:49,617 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:51:49,618 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:51:51,796 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:51:52,217 - Login Page -INFO - Clicking on enter
+2018-05-30 00:51:54,360 - Login -INFO - Enter user password
+2018-05-30 00:52:03,671 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:52:03,672 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:52:03,840 - Home Page -INFO - Click on compose button.
+2018-05-30 00:52:09,428 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:52:17,740 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:52:21,836 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:52:36,094 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:52:36,156 - Home Page -INFO - Retrieve the count
+2018-05-30 00:52:45,744 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:52:49,749 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 00:52:50,430 - Post-Condition -INFO - Close the browser
+2018-05-30 00:52:58,265 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:55:41,298 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:55:47,020 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:55:50,101 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:55:50,103 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:55:51,713 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:55:52,107 - Login Page -INFO - Clicking on enter
+2018-05-30 00:55:54,428 - Login -INFO - Enter user password
+2018-05-30 00:56:03,715 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:56:03,717 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:56:04,008 - Home Page -INFO - Click on compose button.
+2018-05-30 00:56:09,597 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:56:17,929 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:56:22,032 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:56:36,289 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:56:36,345 - Home Page -INFO - Retrieve the count
+2018-05-30 00:56:45,958 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:56:49,964 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 00:56:54,037 - Post-Condition -INFO - Close the browser
+2018-05-30 00:57:02,489 - sendMail -INFO - Mail sent successfully
+2018-05-30 00:57:19,153 - Pre-Condition -INFO - Open the Browser
+2018-05-30 00:57:26,325 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 00:57:29,577 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 00:57:29,578 - GmailPage -INFO - Click on sign in button
+2018-05-30 00:57:31,440 - Login Page -INFO - Entering the user's email ID
+2018-05-30 00:57:32,210 - Login Page -INFO - Clicking on enter
+2018-05-30 00:57:34,349 - Login -INFO - Enter user password
+2018-05-30 00:57:43,601 - check_mail_service -INFO - Click on compose button
+2018-05-30 00:57:43,602 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 00:57:43,827 - Home Page -INFO - Click on compose button.
+2018-05-30 00:57:49,669 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 00:57:58,043 - Message Content -INFO - Entering the mail subject
+2018-05-30 00:58:02,145 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 00:58:16,378 - Home Page -INFO - Get the attribute value.
+2018-05-30 00:58:16,441 - Home Page -INFO - Retrieve the count
+2018-05-30 00:58:26,004 - Home Page -INFO - Click on inbox filter option
+2018-05-30 00:58:30,011 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 00:58:34,086 - Post-Condition -INFO - Close the browser
+2018-05-30 00:58:42,634 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:09:34,695 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:09:41,203 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:09:43,936 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:09:43,938 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:09:45,356 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:09:45,856 - Login Page -INFO - Clicking on enter
+2018-05-30 01:09:47,960 - Login -INFO - Enter user password
+2018-05-30 01:09:57,396 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:09:57,398 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:09:57,835 - Home Page -INFO - Click on compose button.
+2018-05-30 01:10:03,528 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:10:11,862 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:10:16,010 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:10:30,341 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:10:30,478 - Home Page -INFO - Retrieve the count
+2018-05-30 01:10:40,042 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:10:44,046 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:10:48,693 - Post-Condition -INFO - Close the browser
+2018-05-30 01:10:56,967 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:11:43,475 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:11:49,150 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:11:51,594 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:11:51,596 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:11:52,970 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:11:53,225 - Login Page -INFO - Clicking on enter
+2018-05-30 01:11:55,511 - Login -INFO - Enter user password
+2018-05-30 01:12:05,095 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:12:05,099 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:12:05,419 - Home Page -INFO - Click on compose button.
+2018-05-30 01:12:11,038 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:12:19,353 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:12:23,467 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:12:37,720 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:12:37,883 - Home Page -INFO - Retrieve the count
+2018-05-30 01:12:47,375 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:12:51,379 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:13:01,129 - Post-Condition -INFO - Close the browser
+2018-05-30 01:13:08,015 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:13:32,001 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:13:38,237 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:13:41,194 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:13:41,196 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:13:42,600 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:13:43,040 - Login Page -INFO - Clicking on enter
+2018-05-30 01:13:45,143 - Login -INFO - Enter user password
+2018-05-30 01:13:54,352 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:13:54,353 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:13:54,581 - Home Page -INFO - Click on compose button.
+2018-05-30 01:14:00,052 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:14:08,387 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:14:12,503 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:14:26,759 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:14:26,811 - Home Page -INFO - Retrieve the count
+2018-05-30 01:14:36,410 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:14:40,412 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:14:50,692 - Post-Condition -INFO - Close the browser
+2018-05-30 01:14:58,313 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:15:29,837 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:15:37,009 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:15:39,552 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:15:39,558 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:15:41,673 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:15:42,519 - Login Page -INFO - Clicking on enter
+2018-05-30 01:15:44,687 - Login -INFO - Enter user password
+2018-05-30 01:15:53,945 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:15:53,946 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:15:54,142 - Home Page -INFO - Click on compose button.
+2018-05-30 01:15:59,774 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:16:08,189 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:16:12,308 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:16:26,641 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:16:26,797 - Home Page -INFO - Retrieve the count
+2018-05-30 01:16:36,358 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:16:40,361 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:16:50,655 - Post-Condition -INFO - Close the browser
+2018-05-30 01:16:58,415 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:23:44,120 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:23:50,269 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:23:53,112 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:23:53,115 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:23:54,963 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:23:55,480 - Login Page -INFO - Clicking on enter
+2018-05-30 01:23:57,649 - Login -INFO - Enter user password
+2018-05-30 01:24:06,891 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:24:06,894 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:24:07,165 - Home Page -INFO - Click on compose button.
+2018-05-30 01:24:12,910 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:24:21,290 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:24:25,435 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:24:39,760 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:24:39,908 - Home Page -INFO - Retrieve the count
+2018-05-30 01:24:49,497 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:24:53,503 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:26:31,502 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:26:41,112 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:26:43,613 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:26:43,614 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:26:45,140 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:26:45,511 - Login Page -INFO - Clicking on enter
+2018-05-30 01:26:47,616 - Login -INFO - Enter user password
+2018-05-30 01:26:56,813 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:26:56,814 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:26:57,018 - Home Page -INFO - Click on compose button.
+2018-05-30 01:27:02,525 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:27:03,627 - Post-Condition -INFO - Close the browser
+2018-05-30 01:27:10,885 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:27:12,232 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:27:14,992 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:27:28,802 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:27:29,261 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:27:29,325 - Home Page -INFO - Retrieve the count
+2018-05-30 01:27:34,669 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:27:37,516 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:27:37,523 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:27:38,885 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:27:38,963 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:27:39,360 - Login Page -INFO - Clicking on enter
+2018-05-30 01:27:41,459 - Login -INFO - Enter user password
+2018-05-30 01:27:42,893 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:27:50,659 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:27:50,660 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:27:50,894 - Home Page -INFO - Click on compose button.
+2018-05-30 01:27:56,448 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:28:04,763 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:28:08,867 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:28:23,117 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:28:23,284 - Home Page -INFO - Retrieve the count
+2018-05-30 01:28:32,852 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:28:36,856 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 01:29:53,571 - Post-Condition -INFO - Close the browser
+2018-05-30 01:30:01,160 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:30:47,068 - Post-Condition -INFO - Close the browser
+2018-05-30 01:30:53,997 - sendMail -INFO - Mail sent successfully
+2018-05-30 01:31:03,406 - Pre-Condition -INFO - Open the Browser
+2018-05-30 01:31:10,240 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 01:31:12,793 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 01:31:12,793 - GmailPage -INFO - Click on sign in button
+2018-05-30 01:31:14,420 - Login Page -INFO - Entering the user's email ID
+2018-05-30 01:31:14,833 - Login Page -INFO - Clicking on enter
+2018-05-30 01:31:16,971 - Login -INFO - Enter user password
+2018-05-30 01:31:26,163 - check_mail_service -INFO - Click on compose button
+2018-05-30 01:31:26,163 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 01:31:26,388 - Home Page -INFO - Click on compose button.
+2018-05-30 01:31:32,026 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 01:31:40,361 - Message Content -INFO - Entering the mail subject
+2018-05-30 01:31:44,541 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 01:31:58,881 - Home Page -INFO - Get the attribute value.
+2018-05-30 01:31:58,925 - Home Page -INFO - Retrieve the count
+2018-05-30 01:32:08,380 - Home Page -INFO - Click on inbox filter option
+2018-05-30 01:32:12,385 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 09:49:06,767 - Pre-Condition -INFO - Open the Browser
+2018-05-30 09:49:14,443 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 09:49:17,136 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 09:49:17,140 - GmailPage -INFO - Click on sign in button
+2018-05-30 09:49:18,729 - Login Page -INFO - Entering the user's email ID
+2018-05-30 09:49:19,254 - Login Page -INFO - Clicking on enter
+2018-05-30 09:49:21,419 - Login -INFO - Enter user password
+2018-05-30 09:49:30,711 - check_mail_service -INFO - Click on compose button
+2018-05-30 09:49:30,712 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 09:49:30,932 - Home Page -INFO - Click on compose button.
+2018-05-30 09:49:36,992 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 09:49:45,325 - Message Content -INFO - Entering the mail subject
+2018-05-30 09:49:49,427 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 09:50:03,746 - Home Page -INFO - Get the attribute value.
+2018-05-30 09:50:03,787 - Home Page -INFO - Retrieve the count
+2018-05-30 09:50:13,561 - Home Page -INFO - Click on inbox filter option
+2018-05-30 09:50:17,643 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 09:57:40,669 - Pre-Condition -INFO - Open the Browser
+2018-05-30 09:57:47,180 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 09:57:49,652 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 09:57:49,674 - GmailPage -INFO - Click on sign in button
+2018-05-30 09:57:51,581 - Login Page -INFO - Entering the user's email ID
+2018-05-30 09:57:52,013 - Login Page -INFO - Clicking on enter
+2018-05-30 09:57:54,429 - Login -INFO - Enter user password
+2018-05-30 09:58:03,727 - check_mail_service -INFO - Click on compose button
+2018-05-30 09:58:03,728 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 09:58:04,073 - Home Page -INFO - Click on compose button.
+2018-05-30 09:58:09,914 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 09:58:18,489 - Message Content -INFO - Entering the mail subject
+2018-05-30 09:58:22,587 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 09:58:36,822 - Home Page -INFO - Get the attribute value.
+2018-05-30 09:58:37,016 - Home Page -INFO - Retrieve the count
+2018-05-30 09:58:46,470 - Home Page -INFO - Click on inbox filter option
+2018-05-30 09:58:50,474 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 09:58:50,900 - Post-Condition -INFO - Close the browser
+2018-05-30 09:59:01,459 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:32:30,492 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:32:37,348 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:32:40,159 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:32:40,170 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:32:42,659 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:32:43,261 - Login Page -INFO - Clicking on enter
+2018-05-30 10:32:45,584 - Login -INFO - Enter user password
+2018-05-30 10:32:54,820 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:32:54,821 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:32:55,029 - Home Page -INFO - Click on compose button.
+2018-05-30 10:33:00,748 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:33:09,055 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:33:13,146 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:33:27,390 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:33:27,430 - Home Page -INFO - Retrieve the count
+2018-05-30 10:33:36,878 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:33:40,884 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:33:42,371 - Post-Condition -INFO - Close the browser
+2018-05-30 10:33:50,387 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:35:23,025 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:35:29,252 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:35:32,001 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:35:32,003 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:35:33,646 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:35:33,977 - Login Page -INFO - Clicking on enter
+2018-05-30 10:35:36,071 - Login -INFO - Enter user password
+2018-05-30 10:35:45,296 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:35:45,298 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:35:45,520 - Home Page -INFO - Click on compose button.
+2018-05-30 10:35:51,043 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:35:59,446 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:36:03,649 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:36:17,989 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:36:18,071 - Home Page -INFO - Retrieve the count
+2018-05-30 10:36:27,646 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:36:31,649 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:36:37,186 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 10:36:37,911 - Post-Condition -INFO - Close the browser
+2018-05-30 10:36:45,393 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:38:53,216 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:38:59,669 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:39:02,218 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:39:02,220 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:39:03,715 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:39:04,056 - Login Page -INFO - Clicking on enter
+2018-05-30 10:39:06,377 - Login -INFO - Enter user password
+2018-05-30 10:39:15,600 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:39:15,601 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:39:16,073 - Home Page -INFO - Click on compose button.
+2018-05-30 10:39:21,607 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:39:29,924 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:39:33,994 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:39:48,254 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:39:48,388 - Home Page -INFO - Retrieve the count
+2018-05-30 10:39:57,903 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:40:01,910 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:40:07,307 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 10:40:07,947 - Post-Condition -INFO - Close the browser
+2018-05-30 10:40:14,611 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:41:56,923 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:42:02,910 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:42:05,614 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:42:05,639 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:42:06,939 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:42:07,224 - Login Page -INFO - Clicking on enter
+2018-05-30 10:42:09,506 - Login -INFO - Enter user password
+2018-05-30 10:42:18,716 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:42:18,718 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:42:18,974 - Home Page -INFO - Click on compose button.
+2018-05-30 10:42:24,831 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:42:33,464 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:42:37,543 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:42:51,793 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:42:51,845 - Home Page -INFO - Retrieve the count
+2018-05-30 10:43:01,375 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:43:05,382 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:43:10,897 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 10:43:11,787 - Post-Condition -INFO - Close the browser
+2018-05-30 10:43:18,523 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:43:54,069 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:44:00,698 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:44:03,319 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:44:03,320 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:44:05,056 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:44:05,470 - Login Page -INFO - Clicking on enter
+2018-05-30 10:44:07,605 - Login -INFO - Enter user password
+2018-05-30 10:44:17,197 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:44:17,199 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:44:17,711 - Home Page -INFO - Click on compose button.
+2018-05-30 10:44:23,410 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:44:31,744 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:44:35,844 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:44:50,100 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:44:50,144 - Home Page -INFO - Retrieve the count
+2018-05-30 10:44:59,614 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:45:03,620 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:45:09,024 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 10:45:09,610 - Post-Condition -INFO - Close the browser
+2018-05-30 10:45:16,902 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:46:09,924 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:46:17,224 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:46:20,557 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:46:20,558 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:46:21,920 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:46:22,711 - Login Page -INFO - Clicking on enter
+2018-05-30 10:46:24,850 - Login -INFO - Enter user password
+2018-05-30 10:46:34,092 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:46:34,094 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:46:34,470 - Home Page -INFO - Click on compose button.
+2018-05-30 10:46:40,190 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:46:48,547 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:46:52,699 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:47:07,024 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:47:07,170 - Home Page -INFO - Retrieve the count
+2018-05-30 10:47:16,615 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:47:20,617 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:47:29,037 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 10:47:29,796 - Post-Condition -INFO - Close the browser
+2018-05-30 10:47:36,987 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:52:08,470 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:52:15,722 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:52:18,592 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:52:18,594 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:52:20,009 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:52:20,395 - Login Page -INFO - Clicking on enter
+2018-05-30 10:52:22,591 - Login -INFO - Enter user password
+2018-05-30 10:52:31,899 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:52:31,901 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:52:32,418 - Home Page -INFO - Click on compose button.
+2018-05-30 10:52:38,013 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:52:46,380 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:52:50,535 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 10:53:04,876 - Home Page -INFO - Get the attribute value.
+2018-05-30 10:53:05,051 - Home Page -INFO - Retrieve the count
+2018-05-30 10:53:14,529 - Home Page -INFO - Click on inbox filter option
+2018-05-30 10:53:18,535 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 10:53:18,945 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 10:53:19,625 - Post-Condition -INFO - Close the browser
+2018-05-30 10:53:26,591 - sendMail -INFO - Mail sent successfully
+2018-05-30 10:59:04,174 - Pre-Condition -INFO - Open the Browser
+2018-05-30 10:59:10,852 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 10:59:14,730 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 10:59:14,731 - GmailPage -INFO - Click on sign in button
+2018-05-30 10:59:16,864 - Login Page -INFO - Entering the user's email ID
+2018-05-30 10:59:17,358 - Login Page -INFO - Clicking on enter
+2018-05-30 10:59:19,690 - Login -INFO - Enter user password
+2018-05-30 10:59:28,938 - check_mail_service -INFO - Click on compose button
+2018-05-30 10:59:28,939 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 10:59:29,113 - Home Page -INFO - Click on compose button.
+2018-05-30 10:59:34,683 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 10:59:43,031 - Message Content -INFO - Entering the mail subject
+2018-05-30 10:59:50,205 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 11:00:07,578 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:00:07,645 - Home Page -INFO - Retrieve the count
+2018-05-30 11:00:17,112 - Home Page -INFO - Click on inbox filter option
+2018-05-30 11:00:21,119 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 11:00:21,597 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 11:00:21,658 - Post-Condition -INFO - Close the browser
+2018-05-30 11:00:29,408 - sendMail -INFO - Mail sent successfully
+2018-05-30 11:02:30,108 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:02:36,503 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:02:39,588 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 11:02:39,593 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:02:41,525 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:02:42,081 - Login Page -INFO - Clicking on enter
+2018-05-30 11:02:44,275 - Login -INFO - Enter user password
+2018-05-30 11:02:53,552 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:02:53,557 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:02:53,880 - Home Page -INFO - Click on compose button.
+2018-05-30 11:02:59,611 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:03:04,096 - Message Content -INFO - Entering the mail subject
+2018-05-30 11:03:11,217 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 11:03:28,661 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:03:28,719 - Home Page -INFO - Retrieve the count
+2018-05-30 11:03:38,208 - Home Page -INFO - Click on inbox filter option
+2018-05-30 11:03:42,213 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 11:03:43,823 - Post-Condition -INFO - Close the browser
+2018-05-30 11:03:53,596 - sendMail -INFO - Mail sent successfully
+2018-05-30 11:05:26,851 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:05:35,296 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:05:38,938 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 11:05:38,940 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:05:41,115 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:05:41,628 - Login Page -INFO - Clicking on enter
+2018-05-30 11:05:43,828 - Login -INFO - Enter user password
+2018-05-30 11:05:53,085 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:05:53,086 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:05:53,423 - Home Page -INFO - Click on compose button.
+2018-05-30 11:05:59,049 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:06:01,467 - Message Content -INFO - Entering the mail subject
+2018-05-30 11:06:03,639 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 11:06:23,059 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:06:30,778 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:06:37,594 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:06:40,385 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 11:06:40,401 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:06:43,159 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:06:43,641 - Login Page -INFO - Clicking on enter
+2018-05-30 11:06:45,798 - Login -INFO - Enter user password
+2018-05-30 11:06:55,054 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:06:55,056 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:06:55,397 - Home Page -INFO - Click on compose button.
+2018-05-30 11:07:01,140 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:07:03,759 - Message Content -INFO - Entering the mail subject
+2018-05-30 11:07:05,900 - Message Content -INFO - Enter the body of the mail.
+2018-05-30 11:07:24,243 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:08:26,576 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:08:33,372 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:08:36,422 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 11:08:36,423 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:08:39,310 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:08:39,843 - Login Page -INFO - Clicking on enter
+2018-05-30 11:08:42,345 - Login -INFO - Enter user password
+2018-05-30 11:08:51,588 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:08:51,592 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:08:51,870 - Home Page -INFO - Click on compose button.
+2018-05-30 11:08:57,477 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:09:09,980 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:09:11,854 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:09:19,077 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:09:21,746 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 11:09:21,749 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:09:23,873 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:09:24,468 - Login Page -INFO - Clicking on enter
+2018-05-30 11:09:26,612 - Login -INFO - Enter user password
+2018-05-30 11:09:35,900 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:09:35,902 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:09:36,213 - Home Page -INFO - Click on compose button.
+2018-05-30 11:09:41,832 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:09:54,349 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:09:55,654 - Home Page -INFO - Retrieve the count
+2018-05-30 11:10:05,129 - Home Page -INFO - Click on inbox filter option
+2018-05-30 11:10:09,234 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 11:10:09,655 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 11:10:09,712 - Post-Condition -INFO - Close the browser
+2018-05-30 11:10:17,261 - sendMail -INFO - Mail sent successfully
+2018-05-30 11:12:00,977 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:12:07,622 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:12:11,653 - check_mail_service -INFO - Click on sign in button to sign in the login page.
+2018-05-30 11:12:11,654 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:12:13,297 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:12:13,883 - Login Page -INFO - Clicking on enter
+2018-05-30 11:12:16,389 - Login -INFO - Enter user password
+2018-05-30 11:12:26,134 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:12:26,169 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:12:26,747 - Home Page -INFO - Click on compose button.
+2018-05-30 11:12:29,814 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:12:40,461 - Home Page -INFO - Get the attribute value.
+2018-05-30 11:12:40,540 - Home Page -INFO - Retrieve the count
+2018-05-30 11:12:50,035 - Home Page -INFO - Click on inbox filter option
+2018-05-30 11:12:54,039 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 11:12:54,464 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 11:12:54,517 - Post-Condition -INFO - Close the browser
+2018-05-30 11:13:01,861 - sendMail -INFO - Mail sent successfully
+2018-05-30 11:27:47,921 - Pre-Condition -INFO - Open the Browser
+2018-05-30 11:27:54,698 - Pre-Condition -INFO - Navigate to the website
+2018-05-30 11:27:57,574 - check_mail_service -INFO -  Step 1: Log in to the gmail account using email ID and password
+2018-05-30 11:27:57,578 - GmailPage -INFO - Click on sign in button
+2018-05-30 11:27:59,261 - check_mail_service -INFO - Step 2: The email and password should be read from a config file`
+2018-05-30 11:27:59,279 - Login Page -INFO - Entering the user's email ID
+2018-05-30 11:27:59,636 - Login Page -INFO - Clicking on enter
+2018-05-30 11:28:02,097 - Login -INFO - Enter user password
+2018-05-30 11:28:11,357 - check_mail_service -INFO - Click on compose button
+2018-05-30 11:28:11,361 - Home Page -INFO - Wait for the compose element to be visible.
+2018-05-30 11:28:11,683 - Home Page -INFO - Click on compose button.
+2018-05-30 11:28:14,344 - check_mail_service -INFO - Step 3: Compose a new mail and save the same to draft.
+2018-05-30 11:28:14,354 - Message Content -INFO - Enter the recipient's mail ID
+2018-05-30 11:28:24,784 - check_mail_service -INFO - Step 4: Print the unread email count in inbox
+2018-05-30 11:28:24,817 - Home Page -INFO - Getting the attribute value.
+2018-05-30 11:28:24,864 - Home Page -INFO - Retrieving the count
+2018-05-30 11:28:34,361 - Home Page -INFO - Click on inbox filter option
+2018-05-30 11:28:38,362 - Home Page -INFO - Click on unread option from the dropdown
+2018-05-30 11:28:38,751 - check_mail_service -INFO - Step 5: Print the subject line of the first email
+2018-05-30 11:28:38,799 - check_mail_service -INFO - Step 6: Print the Sender email address of the first unread email
+2018-05-30 11:28:38,799 - Home Page -INFO - Getting the details of the mail ID from the first sender which is an unread mail.
+2018-05-30 11:28:38,850 - Post-Condition -INFO - Close the browser
+2018-05-30 11:28:46,296 - sendMail -INFO - Mail sent successfully
